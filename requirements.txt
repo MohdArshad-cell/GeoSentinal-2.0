@@ -1,0 +1,8 @@
+google-generativeai
+pandas
+numpy
+scikit-learn
+streamlit
+python-dotenv
+requests
+beautifulsoup4
